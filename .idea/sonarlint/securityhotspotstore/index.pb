@@ -19,3 +19,5 @@ T
 $tests/hybrid-task-management.test.ts,a/3/a30bcf08307284b1b575116dda0aa87210b621fa
 Q
 !tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
+V
+&tests/task-distribution-system.test.ts,6/0/6014dd557929cf420a3f52bc38425d360715734a
