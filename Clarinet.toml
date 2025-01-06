@@ -5,13 +5,13 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.hybrid-algorithm-nft]
-path = 'contracts/hybrid-algorithm-nft.clar'
+[contracts.compute-time-marketplace]
+path = 'contracts/compute-time-marketplace.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.hybrid-algorithm-nft_]
-path = 'contracts/hybrid-algorithm-nft_.clar'
+[contracts.hybrid-algorithm-nft]
+path = 'contracts/hybrid-algorithm-nft.clar'
 clarity_version = 2
 epoch = 2.5
 

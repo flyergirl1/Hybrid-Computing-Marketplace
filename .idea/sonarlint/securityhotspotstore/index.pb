@@ -7,3 +7,7 @@ R
 "contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
 S
 #contracts/hybrid-algorithm-nft.clar,5/e/5e0d02a4107745f764e154af95a56f0ff7e628bc
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+W
+'contracts/compute-time-marketplace.clar,1/b/1b73196c8025be6c10062147a7d0eb2b1e8abaad
