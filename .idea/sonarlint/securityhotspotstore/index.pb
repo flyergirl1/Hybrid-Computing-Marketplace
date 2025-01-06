@@ -13,3 +13,7 @@ W
 'contracts/compute-time-marketplace.clar,1/b/1b73196c8025be6c10062147a7d0eb2b1e8abaad
 W
 'contracts/task-distribution-system.clar,b/7/b7318be51454d921d8e492a9d0e2f5b6284bc14b
+R
+"tests/hybrid-algorithm-nft.test.ts,6/1/6157b8f6118b0a5662585161516f19b8d88d698d
+T
+$tests/hybrid-task-management.test.ts,a/3/a30bcf08307284b1b575116dda0aa87210b621fa
