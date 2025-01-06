@@ -11,3 +11,5 @@ S
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 W
 'contracts/compute-time-marketplace.clar,1/b/1b73196c8025be6c10062147a7d0eb2b1e8abaad
+W
+'contracts/task-distribution-system.clar,b/7/b7318be51454d921d8e492a9d0e2f5b6284bc14b
