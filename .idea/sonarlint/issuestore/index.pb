@@ -17,3 +17,5 @@ R
 "tests/hybrid-algorithm-nft.test.ts,6/1/6157b8f6118b0a5662585161516f19b8d88d698d
 T
 $tests/hybrid-task-management.test.ts,a/3/a30bcf08307284b1b575116dda0aa87210b621fa
+Q
+!tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
