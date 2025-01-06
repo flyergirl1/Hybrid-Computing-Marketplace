@@ -5,6 +5,16 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.hybrid-algorithm-nft]
+path = 'contracts/hybrid-algorithm-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.hybrid-algorithm-nft_]
+path = 'contracts/hybrid-algorithm-nft_.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.hybrid-task-management]
 path = 'contracts/hybrid-task-management.clar'
 clarity_version = 2
